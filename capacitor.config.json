@@ -1,5 +1,5 @@
 {
-	"appId": "io.ionic.starter",
+	"appId": "com.mustafaakdemir.ionicupload",
 	"appName": "ionicupload",
 	"webDir": "www",
 	"bundledWebRuntime": false
